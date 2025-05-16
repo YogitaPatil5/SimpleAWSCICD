@@ -23,7 +23,7 @@
 	
 3. Create ECR repo to store/save docker image
     - Save the URI: 315865595366.dkr.ecr.us-east-1.amazonaws.com/simple-app
-
+#277707115537.dkr.ecr.us-west-2.amazonaws.com/demo_cicd_app
 	
 4. Create EC2 machine (Ubuntu) 
 
